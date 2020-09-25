@@ -8,10 +8,7 @@
       - https://stackoverflow.com/a/8515417/
 -->
 
-
-### Hi there 👋
-
-Development tools:
+#### Development tools:
 
 <p align="center">
   <img alt="C"               height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
@@ -55,7 +52,7 @@ Development tools:
 
 -----
 
-Used services:
+#### Used services:
 
 <p align="center">
   <img alt="Google"          height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
@@ -102,7 +99,7 @@ Used services:
 
 -----
 
-Interested in:
+#### Interested in:
 
 <p align="center">
   <img alt="Haskell"         height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" />
