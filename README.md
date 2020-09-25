@@ -6,7 +6,11 @@
       - https://github.com/simple-icons/simple-icons (https://simpleicons.org)
     - Spaces:
       - https://stackoverflow.com/a/8515417/
+
+  TODO: Bash -> ZSH, CMake + QMake, curl + wget
 -->
+
+<!--
 
 #### Development tools:
 
@@ -31,12 +35,12 @@
   <img alt="Ubuntu"          height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" />
   <img alt="KDE"             height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kde.svg" />
   &emsp;
-  <img alt="Bash"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" /> <!-- TODO: ZSH -->
+  <img alt="Bash"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
   <img alt="Git"             height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-  <img alt="CMake"           height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cmake.svg" /> <!-- TODO: QMake -->
+  <img alt="CMake"           height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cmake.svg" />
   <img alt="QEMU"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qemu.svg" />
   <img alt="LLVM"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/llvm.svg" />
-  <img alt="curl"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curl.svg" /> <!-- or wget? :) -->
+  <img alt="curl"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curl.svg" />
   <img alt="Sublime Text"    height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
   &emsp;
   <img alt="Google Chrome"   height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
@@ -135,6 +139,8 @@
   <img alt="SpaceX"            height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spacex.svg" />
   <img alt="Tesla"             height="18px" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tesla.svg" />
 </p>
+
+-->
 
 <!-- Status codes (notice special sizes - to make blocks look the same by height -->
 <p align="center">
