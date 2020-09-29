@@ -1,6 +1,8 @@
 <!-- 
   inobelar/inobelar is a special repository because its `README.md` (this file) appears on GitHub profile.
 
+  Inspired by great profile-README of https://github.com/Arshiamidos 
+
   References:
     - Icons sources:
       - https://github.com/simple-icons/simple-icons (https://simpleicons.org)
@@ -141,6 +143,15 @@
 </p>
 
 -->
+
+### Insane stainless ultimate tactical multidimentional hyperlight intergalactic crusader 🚀
+
+- 😄 I reject your reality and substitute my own! (c) Adam Savage
+- 🔨 Coffee → code converter.
+- ⚡ Facts:
+  - **Fan of**: Performance, Zero-cost abstractions, Implicity, Clean code, Docs.
+  - **Interested in**: Computer science, Functional programming, GameDev, Procedural generation, Computational geometry, DSL's, Software architecture.
+- Contacts: [LinkedIn](https://www.linkedin.com/in/yurii-nakonechnyi/)
 
 <!-- Status codes (notice special sizes - to make blocks look the same by height -->
 <p align="center">
