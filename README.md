@@ -151,7 +151,7 @@
 - ⚡ Facts:
   - **Fan of**: Performance, Zero-cost abstractions, Implicity, Clean code, Docs.
   - **Interested in**: Computer science, Functional programming, GameDev, Procedural generation, Computational geometry, DSL's, Software architecture.
-- Contacts: [LinkedIn](https://www.linkedin.com/in/yurii-nakonechnyi/) | [StackOverflow](https://stackoverflow.com/users/13057514/inobelar) | [Habr](https://habr.com/ru/users/Inobelar/) | [Soundcloud](https://soundcloud.com/user-948539125/sets)
+- Contacts: [LinkedIn](https://www.linkedin.com/in/yurii-nakonechnyi/) | [StackOverflow](https://stackoverflow.com/users/13057514/inobelar) | [Habr](https://habr.com/ru/users/Inobelar/) | [Soundcloud](https://soundcloud.com/user-948539125/sets) | [ShaderToy](https://www.shadertoy.com/user/inobelar)
 
 <!-- Status codes (notice special sizes - to make blocks look the same by height -->
 <p align="center">
