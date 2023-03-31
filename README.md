@@ -154,7 +154,6 @@
 - Contacts: [LinkedIn](https://www.linkedin.com/in/yurii-nakonechnyi/) | [StackOverflow](https://stackoverflow.com/users/13057514/inobelar) | [Habr](https://habr.com/ru/users/Inobelar/) | [Soundcloud](https://soundcloud.com/user-948539125/sets) | [ShaderToy](https://www.shadertoy.com/user/inobelar)
 
 <!-- Status codes (notice special sizes - to make blocks look the same by height -->
-<!-- STATS ARE CURRENTLY BROKEN - NOT VISIBLE 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -162,8 +161,6 @@
     <img alt="Inobelars's top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inobelar&theme=react&layout=compact"/>
   </a>
 </p>
-
--->
 
 <!--
 **inobelar/inobelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
