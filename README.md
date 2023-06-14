@@ -158,7 +158,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Inobelars's GitHub stats"  width="420"  src="https://github-readme-stats.vercel.app/api?username=inobelar&show_icons=true&theme=react"/>
+    <img alt="Inobelars's GitHub stats"  width="420"  src="https://github-readme-stats.vercel.app/api?username=inobelar&show_icons=true&theme=react&rank_icon=github"/>
     <img alt="Inobelars's top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inobelar&theme=react&layout=compact"/>
   </a>
 </p>
