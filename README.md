@@ -152,16 +152,44 @@
   - **Fan of**: Performance, Zero-cost abstractions, Implicity, Clean code, Docs.
   - **Interested in**: Computer science, Functional programming, GameDev, Procedural generation, Computational geometry, DSL's, Software architecture.
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/) contributor (Ukrainian voice donor & validator)
-- Contacts: [LinkedIn](https://www.linkedin.com/in/yurii-nakonechnyi/) | [StackOverflow](https://stackoverflow.com/users/13057514/inobelar) | [Habr](https://habr.com/ru/users/Inobelar/) | [Soundcloud](https://soundcloud.com/user-948539125/sets) | [ShaderToy](https://www.shadertoy.com/user/inobelar)
 
-<!-- Status codes (notice special sizes - to make blocks look the same by height -->
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Inobelars's GitHub stats"  width="420"  src="https://github-readme-stats.vercel.app/api?username=inobelar&show_icons=true&theme=react&rank_icon=github"/>
-    <img alt="Inobelars's top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inobelar&theme=react&layout=compact"/>
+<!-- Socials
+  Badges from: https://shields.io/
+  Colors and icons from: https://simpleicons.org/ 
+-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/yurii-nakonechnyi/"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://stackoverflow.com/users/13057514/inobelar"> 
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /> 
+  </a>
+  <a href="https://habr.com/ru/users/Inobelar/"> 
+    <img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" />
+  </a>
+  <a href="https://soundcloud.com/user-948539125/sets"> 
+    <img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  </a>
+  <a href="https://www.shadertoy.com/user/inobelar"> 
+    <img alt="ShaderToy" src="https://img.shields.io/badge/ShaderToy-909090?style=for-the-badge&logo=shadertoy&logoColor=white" />
+  </a>
+</div>
+
+<!-- Status codes 
+
+  Notice: special restriction by height - to make blocks look the same
+
+  User stats     is rendered in: 420x175
+  Language stats is rendered in: 300x165
+
+  that's why, we choose 165px height for both pictures (to not enlarge smaller up to 175)
+-->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Inobelars's GitHub stats"  height="165"  src="https://github-readme-stats.vercel.app/api?username=inobelar&show_icons=true&theme=react&rank_icon=github" />
+    <img alt="Inobelars's top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inobelar&theme=react&layout=compact" />
+  </a>
+</div>
 
 <!--
 **inobelar/inobelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
