@@ -152,6 +152,7 @@
   - **Fan of**: Performance, Zero-cost abstractions, Implicity, Clean code, Docs.
   - **Interested in**: Computer science, Functional programming, GameDev, Procedural generation, Computational geometry, DSL's, Software architecture.
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/) contributor (Ukrainian voice donor & validator)
+- [Repositories to which I have contributed](https://github.com/pulls?q=is%3Apr+author%3Ainobelar) <!-- Reference: https://stackoverflow.com/a/74759431/ -->
 
 <!-- Socials
   Badges from: https://shields.io/
